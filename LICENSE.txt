@@ -1,0 +1,22 @@
+AERIS Indonesia — Proprietary License
+Copyright (c) 2026 Zarvions_Z. All rights reserved, to the extent applicable.
+
+Permission is granted to access and play the game through a website authorized
+by the copyright holder, including the temporary browser copies necessary
+for that purpose.
+
+Except for that permission, permissions required by applicable law, or rights
+expressly granted under applicable hosting-platform terms, no permission is
+granted to copy, modify, distribute, republish, sublicense, sell, or host the
+game, its source code, or its original assets without prior written permission
+from the copyright holder. Do not remove copyright or attribution notices
+from material covered by this license.
+
+This notice applies only to material in which the copyright holder owns rights.
+Third-party software, fonts, geographic data, images, trademarks and other
+third-party material remain subject to their own terms and rights. Public-domain
+material remains public domain. This notice does not restrict rights granted
+by those separate terms or by applicable law.
+
+The game is provided "as is", without warranties of any kind, to the extent
+permitted by applicable law.
