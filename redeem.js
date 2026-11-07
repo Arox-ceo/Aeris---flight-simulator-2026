@@ -1,5 +1,5 @@
 // Change these two values to customize the reward.
-const REDEEM_CODE = 'TheEnd';
+const REDEEM_CODE = 'AJITAMA';
 const REWARD_IMAGE = './ajitama.png';
 
 const style = document.createElement('style');
